@@ -1,0 +1,2 @@
+nama = "charderra"
+print(nama)
